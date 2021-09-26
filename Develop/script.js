@@ -1,5 +1,3 @@
-// keep ID in each index doc but then have the click event find a generic button class, then find the specific ID of the form input
-
 //when a save button is clicked, the text input is saved to localstorage
 $("#btn9").click(function(event) {
   event.preventDefault();
