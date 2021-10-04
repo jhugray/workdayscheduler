@@ -15,7 +15,7 @@ A tool to assist you in planning your workday and highlighting upcoming time slo
 ## Website
 https://jhugray.github.io/workdayscheduler/
 
-![image](https://user-images.githubusercontent.com/59127869/134811669-761d24ba-f86d-4587-8f70-e07612e0e5e6.png)
+![image](https://user-images.githubusercontent.com/59127869/135873412-a7ec409c-a7ca-4f2c-8275-93a519deeb75.png)
 
 
 
