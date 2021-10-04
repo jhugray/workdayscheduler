@@ -81,6 +81,12 @@ console.log(now);
 //function to check the time, and update the css as needed based on the time
 var confirmTime = function () {
 
+  //gets the current date and appends it to the html
+  var currentDate = moment().format('LL');
+  console.log(currentDate);
+  var dateContainer = document.getElementById("currentDay")
+  dateContainer.innerText = currentDate;
+
   //defines the current time using moment.js, HH= 09, 10...17 format
   var currentTime = moment().format('HH');
   console.log(currentTime);
